@@ -1,6 +1,9 @@
+/* important */
 body {
   margin: 0;
+  padding: 0;
 }
+/* important */
 table {
   border-spacing: 0;
 }
@@ -9,4 +12,12 @@ td {
 }
 img {
   border: 0;
+}
+
+.header-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 0;
+  border-spacing: 0;
+  background: #ffffff;
 }
